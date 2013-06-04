@@ -1,0 +1,10 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=9StarT
+android/abi=armeabi
+android/distribute_path=/Users/kpantic
+android/keystore_alias=Kpantic
+android/keystore_password=kpp73294
+android/keystore_path=/Users/kpantic/Desktop/Camara Mama Chicago/app.key
+android/recent_output=/Users/kpantic
+android/sdk_version=Google APIs (Android 2.2)
+eclipse.preferences.version=1
